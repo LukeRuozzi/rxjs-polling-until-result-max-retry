@@ -1,0 +1,9 @@
+{
+  "name": "rxjs",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.29.1",
+    "rxjs": "^7.0.0"
+  }
+}
